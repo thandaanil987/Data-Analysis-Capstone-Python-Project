@@ -29,7 +29,6 @@ The project demonstrates **data cleaning, exploratory data analysis (EDA), and v
 - `requirements.txt` → Dependencies  
 
 
-## How to Run
-1. Install dependencies:
-```bash
+
 pip install -r requirements.txt
+

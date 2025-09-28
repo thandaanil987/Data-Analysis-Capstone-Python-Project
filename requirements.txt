@@ -1,0 +1,35 @@
+Capstone Project – Sales Data Analysis
+Python | Pandas | NumPy | Matplotlib | Seaborn (optional)
+
+Project Overview:
+
+Built an end-to-end sales data analysis project to generate business insights from e-commerce sales data.
+
+Cleaned raw datasets, handled missing values, removed duplicates, and created derived features like Total Sales.
+
+Performed exploratory data analysis (EDA) to identify top-selling products, high-performing regions, and monthly/daily sales trends.
+
+Developed visualizations using Matplotlib for clear presentation of insights: line charts, bar charts, and trend analysis.
+
+Delivered actionable recommendations for revenue optimization and business strategy.
+
+Key Skills Demonstrated:
+
+Data Cleaning & Preprocessing
+
+Exploratory Data Analysis (EDA)
+
+Data Visualization
+
+Python Programming with Pandas, NumPy, Matplotlib
+
+Impact / Result:
+
+Identified top 10 products contributing most to revenue.
+
+Highlighted regions with highest and lowest sales performance.
+
+Analyzed monthly and daily sales trends to support business decisions.
+
+
+Python Data Analyst | Capstone Project: Sales Data Analysis | EDA & Visualization

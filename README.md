@@ -29,6 +29,3 @@ The project demonstrates **data cleaning, exploratory data analysis (EDA), and v
 - `requirements.txt` → Dependencies  
 
 
-
-pip install -r requirements.txt
-
